@@ -7,4 +7,4 @@ A PFA-controllable and feature-based detection method is desined in this code, T
 
 For more details, you could read our paper [1]. In this project, STDN.py is a PyTorch implementation code, and you could easily transfer this network to your research by "from STDN import stdn-18". The required environments include "torch" and "math". This code refers to some parts of ACNet(https://github.com/DingXiaoH/ACNet)
 
-[1] Qizhe Qu, Yong-Liang Wang, Weijian Liu, Binbin Li, "A False Alarm Controllable Detection Method Based on CNN for Sea-surface Small Targets," IEEE Geoscience and Remote Sensing Letters, accepted, 2022.
+[1] Q. Qu, Y. -L. Wang, W. Liu and B. Li, “A false alarm controllable detection method based on CNN for sea-surface small targets,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, Art no. 4025705, 2022.
